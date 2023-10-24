@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [efaida](efaida.tech)
 
-- 🌱 I’m currently learning **Blockchain development**
+- 🌱 I’m currently learning **AI Used in WordPress Websites**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ahmad-raza-ghori-b0075b247/](https://www.linkedin.com/in/ahmad-raza-ghori-b0075b247/)
 
